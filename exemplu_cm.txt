@@ -1,0 +1,2 @@
+Prima mea linie cu context manager
+Continuarea pe a doua linie
